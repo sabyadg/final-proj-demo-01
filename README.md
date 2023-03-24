@@ -1,8 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
-
+I Sabya is now going to do this project.... 
 ## Process
 ### (your step 1)
 ### (your step 2)
